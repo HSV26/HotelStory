@@ -10,6 +10,18 @@ export const AdminPage: React.FC = () => {
   const [checkingAuth, setCheckingAuth] = useState(true);
 
   useEffect(() => {
+    document.title = 'Admin Leads Inbox – HotelStory';
+    const meta = document.createElement('meta');
+    meta.name = 'robots';
+    meta.content = 'noindex, nofollow';
+    document.head.appendChild(meta);
+
+    return () => {
+      document.head.removeChild(meta);
+    };
+  }, []);
+
+  useEffect(() => {
     if (!supabase) {
       setCheckingAuth(false);
       return;

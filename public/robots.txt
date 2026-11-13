@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /laudalele
+Disallow: /admin
+Sitemap: https://hotel-story.vercel.app/sitemap.xml
