@@ -1,0 +1,6 @@
+{
+  "name": "HotelStory",
+  "description": "Social media marketing agency for the hospitality and entertainment industry—helping restaurants, cafés, nightlife venues, hotels, events, and experiences become the #1 name in their city.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
