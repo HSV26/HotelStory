@@ -98,19 +98,19 @@ export interface FaqItem {
 // PLACEHOLDER IMAGES (Generated assets ready to swap anytime)
 // ============================================================
 export const SITE_IMAGES = {
-  heroBackground: '/src/assets/images/hero_luxury_hotel_1794568667869.jpg',
-  whyEditorialLobby: '/src/assets/images/why_hotelstory_editorial_1794568669247.jpg',
+  heroBackground: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1920&q=80',
+  whyEditorialLobby: 'https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=80',
   founderPortrait: '/assets/aistudio/WhatsApp_Image_2026-11-13_at_19.11.26_758b6730.jpeg',
-  caseStudyResort: '/src/assets/images/case_study_resort_1794568667479.jpg',
-  caseStudyRestaurant: '/src/assets/images/case_study_restaurant_1794568668333.jpg',
-  caseStudyVilla: '/src/assets/images/case_study_boutique_stay_1794568669249.jpg',
-  // Businesses We Serve Category Hover Images (PLACEHOLDER: Easy to replace)
-  categoryDining: '/src/assets/images/case_study_restaurant_1794568668333.jpg',
-  categoryCafe: '/src/assets/images/category_cafe_1794568998604.jpg',
-  categoryNightlife: '/src/assets/images/category_nightlife_1794569000186.jpg',
-  categoryStay: '/src/assets/images/case_study_boutique_stay_1794568669249.jpg',
-  categoryEvents: '/src/assets/images/category_events_1794568999836.jpg',
-  categoryExperiences: '/src/assets/images/case_study_resort_1794568667479.jpg',
+  caseStudyResort: 'https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1000&q=80',
+  caseStudyRestaurant: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1000&q=80',
+  caseStudyVilla: 'https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1000&q=80',
+  // Businesses We Serve Category Hover Images
+  categoryDining: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1000&q=80',
+  categoryCafe: 'https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1000&q=80',
+  categoryNightlife: 'https://images.unsplash.com/photo-1572116469696-31de0f17cc34?auto=format&fit=crop&w=1000&q=80',
+  categoryStay: 'https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1000&q=80',
+  categoryEvents: 'https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1000&q=80',
+  categoryExperiences: 'https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1000&q=80',
 };
 
 // ============================================================
